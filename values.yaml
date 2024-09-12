@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: yossizxc/weather
-  tag: 3.3.0.222
+  tag: 11
   pullPolicy: IfNotPresent
 
 service:
